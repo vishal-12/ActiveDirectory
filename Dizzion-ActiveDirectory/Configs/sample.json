@@ -1,0 +1,13 @@
+ {
+    "TargetADCredential": {
+        "ADUsername":"admin", 
+        "ADPassword":"Blahblahblah"
+    }, 
+    "Options": {
+        "PrimaryDNSServer":"192.168.1.1", 
+        "Domain":"Contoso.com", 
+		"TargetADForest":"Contoso.com", 
+        "LogFolderPath":null, 
+        "LogFileName":null
+    }
+}
