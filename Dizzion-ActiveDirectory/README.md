@@ -4,7 +4,7 @@
   
   
 
-![]( https://www.dizzion.com/wp-content/uploads/2016/07/dizzion-logo.png "Dizzion Horizon")
+![]( [https://www.dizzion.com/wp-content/uploads/2016/07/dizzion-logo.png "Dizzion Horizon](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A624%2F0*u8lSOsKnxFapY0qO.png&tbnid=Xlr65uXhi9DLjM&vet=12ahUKEwj6hKOb5ayEAxW2TWwGHQaKDsUQMygDegQIARB6..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40gwenilorac%2Funderstanding-active-directory-8434ecbcf558&docid=6SJThtCXvnbVRM&w=624&h=426&q=Active%20directory&client=safari&ved=2ahUKEwj6hKOb5ayEAxW2TWwGHQaKDsUQMygDegQIARB6)")
 
   
   
@@ -16,7 +16,7 @@
   
   
 
-# **Dizzion-ActiveDirectory**
+# ActiveDirectory**
 
   
   
@@ -25,7 +25,7 @@
   
   
 
-## The Dizzion-ActiveDirectory module enables automation and operations of an Active Directory environment.
+## ActiveDirectory module enables automation and operations of an Active Directory environment.
 
   
   
@@ -33,7 +33,7 @@
   
   
 
-Dizzion-ActiveDirectory is designed to perform reporting, operations and automation of an Active Directory Environment. This version of this module is for compliance reporting and the automation of AD Trust creation.
+ActiveDirectory is designed to perform reporting, operations and automation of an Active Directory Environment. This version of this module is for compliance reporting and the automation of AD Trust creation.
 
   
   
